@@ -1,3 +1,3 @@
-# BootCamp
+# MyGit
 html
 
